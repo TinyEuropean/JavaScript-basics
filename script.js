@@ -8,7 +8,6 @@ var fullAge = true;
 console.log(fullAge);
 
 var job;
-// update btw lol
 job = 'Teacher';
 console.log(job);
 
